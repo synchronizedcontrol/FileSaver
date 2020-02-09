@@ -1,0 +1,7 @@
+web deploy/**/*
+FileSaver/bin
+FileSaver/obj
+FileSaver/testfolder
+*.Debug.config
+*.Release.config
+.vs/

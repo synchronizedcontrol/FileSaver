@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DMSInterface Code="8" MsgType="STATUS_UPDATE" StatusDT="2016-12-15 07:41:14">
+  <CompanyName>COM1</CompanyName>
+  <CompanyReference>TestOrder</CompanyReference>
+  <Status>10</Status>
+  <LRN>0000009050D10000003787</LRN>
+  <DRN>16NLIWPIM8A57VWD54</DRN>
+  <DateAccepted>2016-12-14 22:35:19</DateAccepted>
+  <DateCleared>2016-12-14 22:35:25</DateCleared>
+  <ExitEUDetails>
+    <ExitEU>
+      <SeqNumber>1</SeqNumber>
+      <UCRReference>TESTREF</UCRReference>
+      <DateExitEU>2016-12-15</DateExitEU>
+    </ExitEU>
+  </ExitEUDetails>
+</DMSInterface>
